@@ -1,0 +1,9 @@
+{
+	"env": {
+		"MONGO_ATLAS_PWD": "api-test",
+		"JWT_KEY": "secret",
+		"SERVICENOW_INSTANCE": "dev57554",
+		"SERVICENOW_USERID": "admin",
+		"SERVICENOW_PASSWORD": "Welcome@123"
+	}
+}
